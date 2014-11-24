@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FoodPin/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052c"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2014年 scott. All rights reserved.</source>
+        <target>  Copyright 2014 雪山飞鹄©版权所有</target>
+        <note>Class = "IBUILabel"; text = "  Copyright (c) 2014年 scott. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052c"/>
+    </header>
+    <body>
+      <trans-unit id="3YZ-uH-oXR.normalTitle">
+        <source>No</source>
+        <target>没来过</target>
+        <note>Class = "IBUIButton"; normalTitle = "No"; ObjectID = "3YZ-uH-oXR";</note>
+      </trans-unit>
+      <trans-unit id="5B3-bL-kGf.text">
+        <source>Type</source>
+        <target>类别</target>
+        <note>Class = "IBUILabel"; text = "Type"; ObjectID = "5B3-bL-kGf";</note>
+      </trans-unit>
+      <trans-unit id="9km-wr-E0l.text">
+        <source>Name</source>
+        <target>名称</target>
+        <note>Class = "IBUILabel"; text = "Name"; ObjectID = "9km-wr-E0l";</note>
+      </trans-unit>
+      <trans-unit id="Apc-P9-3GD.text">
+        <source>NAME</source>
+        <target>名称</target>
+        <note>Class = "IBUILabel"; text = "NAME"; ObjectID = "Apc-P9-3GD";</note>
+      </trans-unit>
+      <trans-unit id="EHt-Ys-uBW.normalTitle">
+        <source>Yes</source>
+        <target>来过</target>
+        <note>Class = "IBUIButton"; normalTitle = "Yes"; ObjectID = "EHt-Ys-uBW";</note>
+      </trans-unit>
+      <trans-unit id="ER1-b1-bns.text">
+        <source>Heading</source>
+        <target>标题</target>
+        <note>Class = "IBUILabel"; text = "Heading"; ObjectID = "ER1-b1-bns";</note>
+      </trans-unit>
+      <trans-unit id="MHx-pp-hfX.text">
+        <source>LOCATION</source>
+        <target>位置</target>
+        <note>Class = "IBUILabel"; text = "LOCATION"; ObjectID = "MHx-pp-hfX";</note>
+      </trans-unit>
+      <trans-unit id="OD6-6Z-5Vy.text">
+        <source>TYPE</source>
+        <target>类别</target>
+        <note>Class = "IBUILabel"; text = "TYPE"; ObjectID = "OD6-6Z-5Vy";</note>
+      </trans-unit>
+      <trans-unit id="T6d-Ug-YHK.text">
+        <source>Got Questions?You're just tap away</source>
+        <target>如有问题与我们联系</target>
+        <note>Class = "IBUILabel"; text = "Got Questions?You're just tap away"; ObjectID = "T6d-Ug-YHK";</note>
+      </trans-unit>
+      <trans-unit id="TRl-X1-tLJ.text">
+        <source>Location</source>
+        <target>位置</target>
+        <note>Class = "IBUILabel"; text = "Location"; ObjectID = "TRl-X1-tLJ";</note>
+      </trans-unit>
+      <trans-unit id="V56-JA-WfP.title">
+        <source>Feed</source>
+        <target>分享</target>
+        <note>Class = "IBUINavigationItem"; title = "Feed"; ObjectID = "V56-JA-WfP";</note>
+      </trans-unit>
+      <trans-unit id="Y8r-xm-KYH.title">
+        <source>About</source>
+        <target>关于</target>
+        <note>Class = "IBUINavigationItem"; title = "About"; ObjectID = "Y8r-xm-KYH";</note>
+      </trans-unit>
+      <trans-unit id="YDX-HU-qLv.normalTitle">
+        <source>Get Started</source>
+        <target>开始</target>
+        <note>Class = "IBUIButton"; normalTitle = "Get Started"; ObjectID = "YDX-HU-qLv";</note>
+      </trans-unit>
+      <trans-unit id="aes-gQ-2EF.normalTitle">
+        <source>Contact Us</source>
+        <target>与我们联系</target>
+        <note>Class = "IBUIButton"; normalTitle = "Contact Us"; ObjectID = "aes-gQ-2EF";</note>
+      </trans-unit>
+      <trans-unit id="cRd-WB-gni.normalTitle">
+        <source>Visit our website</source>
+        <target>访问站点</target>
+        <note>Class = "IBUIButton"; normalTitle = "Visit our website"; ObjectID = "cRd-WB-gni";</note>
+      </trans-unit>
+      <trans-unit id="fUS-Co-P7r.title">
+        <source>New Restaurant</source>
+        <target>新增餐厅</target>
+        <note>Class = "IBUINavigationItem"; title = "New Restaurant"; ObjectID = "fUS-Co-P7r";</note>
+      </trans-unit>
+      <trans-unit id="j0O-8h-cMU.normalTitle">
+        <source>Map</source>
+        <target>地图</target>
+        <note>Class = "IBUIButton"; normalTitle = "Map"; ObjectID = "j0O-8h-cMU";</note>
+      </trans-unit>
+      <trans-unit id="jcv-jo-eCb.placeholder">
+        <source>Restaurant Type</source>
+        <target>餐厅类别</target>
+        <note>Class = "IBUITextField"; placeholder = "Restaurant Type"; ObjectID = "jcv-jo-eCb";</note>
+      </trans-unit>
+      <trans-unit id="lp2-7V-dJh.text">
+        <source>You’ve dined here. What did you think?</source>
+        <target>点个赞吧</target>
+        <note>Class = "IBUILabel"; text = "You’ve dined here. What did you think?"; ObjectID = "lp2-7V-dJh";</note>
+      </trans-unit>
+      <trans-unit id="oA0-lH-pcS.placeholder">
+        <source>Restaurant Name</source>
+        <target>餐厅名称</target>
+        <note>Class = "IBUITextField"; placeholder = "Restaurant Name"; ObjectID = "oA0-lH-pcS";</note>
+      </trans-unit>
+      <trans-unit id="pcI-9w-qQB.placeholder">
+        <source>Restaurant Location</source>
+        <target>餐厅地址</target>
+        <note>Class = "IBUITextField"; placeholder = "Restaurant Location"; ObjectID = "pcI-9w-qQB";</note>
+      </trans-unit>
+      <trans-unit id="swf-i5-2sO.text">
+        <source>HAVE YOU BEEN HERE</source>
+        <target>有来过这里吗</target>
+        <note>Class = "IBUILabel"; text = "HAVE YOU BEEN HERE"; ObjectID = "swf-i5-2sO";</note>
+      </trans-unit>
+      <trans-unit id="xTT-fE-aU0.text">
+        <source>Subheading</source>
+        <target>子标题</target>
+        <note>Class = "IBUILabel"; text = "Subheading"; ObjectID = "xTT-fE-aU0";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>餐厅</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1" build-num="6A1052c"/>
+    </header>
+    <body>
+      <trans-unit id="Been here">
+        <source>Been here</source>
+        <target>来过这儿</target>
+        <note>Been here</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>取消</target>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target>电邮</target>
+        <note>For sharing on Email</note>
+      </trans-unit>
+      <trans-unit id="Facebook">
+        <source>Facebook</source>
+        <target>脸书</target>
+        <note>For sharing on Facebook</note>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <target>位置</target>
+        <note>Location</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>餐厅名称</target>
+        <note>Name</note>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>没有</target>
+        <note>Never Been here</note>
+      </trans-unit>
+      <trans-unit id="Search your restaurant">
+        <source>Search your restaurant</source>
+        <target>查找餐厅</target>
+        <note>Search your restaurant</note>
+      </trans-unit>
+      <trans-unit id="Share">
+        <source>Share</source>
+        <target>分享</target>
+        <note>Share Action</note>
+      </trans-unit>
+      <trans-unit id="Share using">
+        <source>Share using</source>
+        <target>分享到</target>
+        <note>For social sharing</note>
+      </trans-unit>
+      <trans-unit id="Twitter">
+        <source>Twitter</source>
+        <target>推特</target>
+        <note>For sharing on Twitter</note>
+      </trans-unit>
+      <trans-unit id="Type">
+        <source>Type</source>
+        <target>餐厅类别</target>
+        <note>Type</note>
+      </trans-unit>
+      <trans-unit id="We can't proceed as you forget to fill in the restaurant field">
+        <source>We can't proceed as you forget to fill in the restaurant field</source>
+        <target>餐厅信息不能为空</target>
+        <note>empty message</note>
+      </trans-unit>
+      <trans-unit id="Yes, I’ve been here before">
+        <source>Yes, I’ve been here before</source>
+        <target>是的，我来过这儿</target>
+        <note>I’ve been here before</note>
+      </trans-unit>
+      <trans-unit id="alert">
+        <source>alert</source>
+        <target>提示</target>
+        <note>Warn</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

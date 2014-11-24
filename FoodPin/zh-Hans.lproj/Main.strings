@@ -1,0 +1,69 @@
+/* Class = "IBUIButton"; normalTitle = "No"; ObjectID = "3YZ-uH-oXR"; */
+"3YZ-uH-oXR.normalTitle" = "没来过";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "5B3-bL-kGf"; */
+"5B3-bL-kGf.text" = "类别";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "9km-wr-E0l"; */
+"9km-wr-E0l.text" = "名称";
+
+/* Class = "IBUILabel"; text = "NAME"; ObjectID = "Apc-P9-3GD"; */
+"Apc-P9-3GD.text" = "名称";
+
+/* Class = "IBUIButton"; normalTitle = "Yes"; ObjectID = "EHt-Ys-uBW"; */
+"EHt-Ys-uBW.normalTitle" = "来过";
+
+/* Class = "IBUILabel"; text = "Heading"; ObjectID = "ER1-b1-bns"; */
+"ER1-b1-bns.text" = "标题";
+
+/* Class = "IBUILabel"; text = "LOCATION"; ObjectID = "MHx-pp-hfX"; */
+"MHx-pp-hfX.text" = "位置";
+
+/* Class = "IBUILabel"; text = "TYPE"; ObjectID = "OD6-6Z-5Vy"; */
+"OD6-6Z-5Vy.text" = "类别";
+
+/* Class = "IBUILabel"; text = "Got Questions?You're just tap away"; ObjectID = "T6d-Ug-YHK"; */
+"T6d-Ug-YHK.text" = "如有问题与我们联系";
+
+/* Class = "IBUILabel"; text = "Location"; ObjectID = "TRl-X1-tLJ"; */
+"TRl-X1-tLJ.text" = "位置";
+
+/* Class = "IBUINavigationItem"; title = "Feed"; ObjectID = "V56-JA-WfP"; */
+"V56-JA-WfP.title" = "分享";
+
+/* Class = "IBUINavigationItem"; title = "About"; ObjectID = "Y8r-xm-KYH"; */
+"Y8r-xm-KYH.title" = "关于";
+
+/* Class = "IBUIButton"; normalTitle = "Get Started"; ObjectID = "YDX-HU-qLv"; */
+"YDX-HU-qLv.normalTitle" = "开始";
+
+/* Class = "IBUIButton"; normalTitle = "Contact Us"; ObjectID = "aes-gQ-2EF"; */
+"aes-gQ-2EF.normalTitle" = "与我们联系";
+
+/* Class = "IBUIButton"; normalTitle = "Visit our website"; ObjectID = "cRd-WB-gni"; */
+"cRd-WB-gni.normalTitle" = "访问站点";
+
+/* Class = "IBUINavigationItem"; title = "New Restaurant"; ObjectID = "fUS-Co-P7r"; */
+"fUS-Co-P7r.title" = "新增餐厅";
+
+/* Class = "IBUIButton"; normalTitle = "Map"; ObjectID = "j0O-8h-cMU"; */
+"j0O-8h-cMU.normalTitle" = "地图";
+
+/* Class = "IBUITextField"; placeholder = "Restaurant Type"; ObjectID = "jcv-jo-eCb"; */
+"jcv-jo-eCb.placeholder" = "餐厅类别";
+
+/* Class = "IBUILabel"; text = "You’ve dined here. What did you think?"; ObjectID = "lp2-7V-dJh"; */
+"lp2-7V-dJh.text" = "点个赞吧";
+
+/* Class = "IBUITextField"; placeholder = "Restaurant Name"; ObjectID = "oA0-lH-pcS"; */
+"oA0-lH-pcS.placeholder" = "餐厅名称";
+
+/* Class = "IBUITextField"; placeholder = "Restaurant Location"; ObjectID = "pcI-9w-qQB"; */
+"pcI-9w-qQB.placeholder" = "餐厅地址";
+
+/* Class = "IBUILabel"; text = "HAVE YOU BEEN HERE"; ObjectID = "swf-i5-2sO"; */
+"swf-i5-2sO.text" = "有来过这里吗";
+
+/* Class = "IBUILabel"; text = "Subheading"; ObjectID = "xTT-fE-aU0"; */
+"xTT-fE-aU0.text" = "子标题";
+

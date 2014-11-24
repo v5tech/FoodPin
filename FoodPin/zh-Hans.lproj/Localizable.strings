@@ -1,0 +1,45 @@
+/* Been here */
+"Been here" = "来过这儿";
+
+/* Cancel */
+"Cancel" = "取消";
+
+/* For sharing on Email */
+"Email" = "电邮";
+
+/* For sharing on Facebook */
+"Facebook" = "脸书";
+
+/* Location */
+"Location" = "位置";
+
+/* Name */
+"Name" = "餐厅名称";
+
+/* Never Been here */
+"No" = "没有";
+
+/* Search your restaurant */
+"Search your restaurant" = "查找餐厅";
+
+/* Share Action */
+"Share" = "分享";
+
+/* For social sharing */
+"Share using" = "分享到";
+
+/* For sharing on Twitter */
+"Twitter" = "推特";
+
+/* Type */
+"Type" = "餐厅类别";
+
+/* empty message */
+"We can't proceed as you forget to fill in the restaurant field" = "餐厅信息不能为空";
+
+/* I’ve been here before */
+"Yes, I’ve been here before" = "是的，我来过这儿";
+
+/* Warn */
+"alert" = "提示";
+
