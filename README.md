@@ -14,6 +14,7 @@
 * 中文版
 
 ![](Screenshots/FoodPin-Chinese.gif)
+![](Screenshots/FoodPin-Delete.gif)
 
 * 英文版
 
